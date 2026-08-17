@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="readme.md" />
+    <File Path="Todo.md" />
+  </Folder>
+  <Folder Name="/Workspace Items/">
+    <File Path=".husky/commit-msg" />
+    <File Path="commitlint.config.mjs"/>
+    <File Path="package-lock.json"/>
+    <File Path="package.json"/>
+  </Folder>
+</Solution>
